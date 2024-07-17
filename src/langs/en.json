@@ -1,0 +1,42 @@
+{
+  "header": {
+    "registerBtn": "SignIn"
+  },"footer": {
+    "content": "Implemented with Next.js"
+  },
+  "main": {
+    "appName": "Welcome to the Quiz app",
+    "appStartBtn": "Start Quiz"
+  },
+  "quiz": {
+    "title": "Answer the questions carefully",
+    "quizNum1": "Test",
+    "quizNum2": "of",
+    "nextBtn": "Next Question",
+    "finishBtn": "Finish",
+    "result": "Test Result",
+    "resultScoreMsg1": "In general",
+    "resultScoreMsg2": "of the questions have been answered",
+    "quizCount": "Number of question",
+    "quizScore": "Total score",
+    "quizCorrect": "Correct questions",
+    "quizWrong": "Wrong questions",
+    "quizRestart": "Restart the test 🤞"
+  },
+  "about": {
+    "fullname": "Marzieh amini ",
+    "info": " Developer"
+  },
+  "notFound": {
+    "message": "We did not find the page you are looking for 🤗",
+    "backToHome": "Back to home"
+  },
+  "error": {
+    "message": "We have a problem 🙃",
+    "tryAgain": "Try again 🤗"
+  },
+  "underConstruction": {
+    "title": "We are very sorry 🙃",
+    "subTitle": "We are updating, please come back soon 😊"
+  }
+}
